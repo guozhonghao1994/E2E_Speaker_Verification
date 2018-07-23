@@ -1,0 +1,12 @@
+0 Eartha_Kitt/5r0dWxy17C8_0000017.wav      Eddie_Griffin/wb6ligRbbZ4_0000001.wav 
+1 Ed_Westwick/1gtz-CUIygI_0000016.wav 	   Ed_Westwick/gO805KoL2RM_0000001.wav
+0 Eddie_Griffin/olePnztkm6U_0000004.wav    Eartha_Kitt/8jEAjG6SegY_0000023.wav
+1 Ed_Westwick/LjLjQkfhd2o_0000005.wav      Ed_Westwick/PfcJLmkhGbk_0000001.wav
+0 Eddie_Griffin/wb6ligRbbZ4_0000002.wav    Eartha_Kitt/GWXujl-xAVM_0000001.wav
+1 Ed_Westwick/PfcJLmkhGbk_0000008.wav      Ed_Westwick/PfcJLmkhGbk_0000006.wav
+0 Eartha_Kitt/GWXujl-xAVM_0000020.wav      Ed_Westwick/PMWQqW_ia58_0000001.wav
+1 Eddie_Griffin/wb6ligRbbZ4_0000003.wav    Eddie_Griffin/dkN2DIBrXqQ_0000007.wav
+0 Eddie_Griffin/wb6ligRbbZ4_0000005.wav    Eartha_Kitt/GWXujl-xAVM_0000013.wav
+1 Eartha_Kitt/GWXujl-xAVM_0000051.wav      Eartha_Kitt/PXmaB6Ui0fE_0000001.wav
+0 Ed_Westwick/zWyD72sHVwA_0000007.wav      Eddie_Griffin/olePnztkm6U_0000010.wav
+1 Eddie_Griffin/dkN2DIBrXqQ_0000002.wav    Eddie_Griffin/uuEXZLyyWN8_0000001.wav
