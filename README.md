@@ -1,4 +1,4 @@
-# GE2E_Speaker-Verification
+# GE2E_TDSV_nihaoxiaogua
 This branch is mostly done by using our own dataset --- nihaoxiaogua
 
 ### What is nihaoxiaogua?
