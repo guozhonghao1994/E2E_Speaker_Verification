@@ -19,4 +19,15 @@ Nihaoxiaogua is a self-made dataset by Lenovo(Beijing) AI Lab. Totally we have 1
 - data_preprocess_nihao.py
   The original data is saved in pickle format on server. The thing we should do first is to transform to numpy format.
   
+### Result
+The whole experiment was done on a platform of 2 E5-2699 v4 CPUs and 4 Tesla P100 GPUs.
+
+Matrix loss was about 10 after 2m times iterations.
+
+Pair by pair of testing was time consuming!
+
+The EER is xxx
+
+ROC curve and tensorboard curve:
+  
 
