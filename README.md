@@ -1,4 +1,4 @@
-# Speaker_Verification on voxceleb1
+# TISV_voxceleb1
 Implementation of generalized end-to-end loss for speaker verification on voxceleb1 dataset.
 
 
