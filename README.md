@@ -26,7 +26,7 @@ Matrix loss was about 10 after 2m times iterations.
 
 Pair by pair of testing was time consuming!
 
-The EER is xxx
+The EER is 0.07
 
 ROC curve and tensorboard curve:
   
