@@ -10,8 +10,7 @@ This is my 2018 summer intern in Lenovo Research, artificial intelligence lab. M
 ## Part2 Deep Speaker
 
 ## Related Works
-[End-to-End Text-Dependent Speaker Verification]
-(https://github.com/guozhonghao1994/E2E_Speaker_Verification/blob/master/paper/end-to-end%20TD-SV.pdf)
+[End-to-End Text-Dependent Speaker Verification](https://github.com/guozhonghao1994/E2E_Speaker_Verification/blob/master/paper/end-to-end%20TD-SV.pdf)
 
 [GENERALIZED END-TO-END LOSS FOR SPEAKER VERIFICATION](https://github.com/guozhonghao1994/E2E_Speaker_Verification/blob/master/paper/google%20GE2E.pdf)
 
